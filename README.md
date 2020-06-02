@@ -1,0 +1,2 @@
+# ciencia_de_datos_con_python_Intro_Limpieza_de_datos
+Este repositorio almacena todos los códigos y bases de datos necesarios para el día 1 del curso de ciencia de datos con python de la comunidad Mcoder.ai. Descarga la libreta Jupyter en tu computadora y ábrelo con tu aplicación local de Jupyter Notebook para interactuar con el contenido. Encontrarás información sobre las librerías más utilizadas para hacer Ciencia de Datos y nuestro material para limpieza de datos. 
